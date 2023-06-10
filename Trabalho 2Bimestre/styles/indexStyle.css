@@ -1,0 +1,257 @@
+body{
+    background-color: #ACD1F2;
+}
+a {
+    font-style:italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+.cabecalhoPrincipal{
+   width: 100%;
+   height: 3em;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.titPrincipal {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    font-size: 48px;
+    position: relative;
+    top: 10px;
+    width: 100%;
+    text-decoration: overline underline;
+}
+.imgEx1 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 100px;
+    left: 70px;
+}
+.btnEx1 {
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 360px;
+    left: 115px;
+
+}
+
+.imgEx2 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 100px;
+    left: 335px;
+}
+.btnEx2 {
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 360px;
+    left: 375px;
+}
+
+.imgEx3 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 100px;
+    left: 600px;
+}
+
+.btnEx3{
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 360px;
+    left: 650px;
+    
+}
+
+.imgEx4{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 100px;
+    left: 870px;
+}
+
+.btnEx4{
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 360px;
+    left: 930px;
+}
+
+.imgEx5{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 100px;
+    left: 1140px;
+}
+
+.btnEx5 {
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 360px;
+    left: 1185px;
+}
+
+.imgEx6 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 420px;
+    left: 70px;
+}
+
+.btnEx6{
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 680px;
+    left: 115px;
+}
+
+.imgEx7 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 420px;
+    left: 335px;
+}
+
+.btnEx7 {
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 680px;
+    left: 375px;
+}
+
+.imgEx8 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 420px;
+    left: 600px;
+}
+
+.btnEx8{
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 680px;
+    left: 650px;
+}
+
+.imgEx9 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 420px;
+    left: 870px;
+}
+
+.btnEx9 {
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 680px;
+    left: 930px;
+}
+
+.imgEx10 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 420px;
+    left: 1140px;
+}
+
+.btnEx10 {
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 680px;
+    left: 1185px;
+}
+
+.imgEx11{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 740px;
+    left: 200px;
+}
+
+.btnEx11 {
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 1000px;
+    left: 245px;
+}
+
+.imgEx12 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 740px;
+    left: 470px;
+}
+
+.btnEx12{
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 1000px;
+    left: 515px;
+}
+
+.imgEx13 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 740px;
+    left: 740px;
+}
+
+.btnEx13 {
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 1000px;
+    left: 785px;
+}
+
+.imgEx14 {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 740px;
+    left: 1010px;
+}
+
+.btnEx14 {
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    top: 1000px;
+    left: 1055px;
+}
+
+button:hover{
+    background-color: lightgreen;
+}
